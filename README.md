@@ -2,7 +2,7 @@
 This project is an audiovisual installation, exploring the experience of memory through interaction with wearable sensor technology.
 
 **Link to Video Demonstration:**  https://www.youtube.com/watch?v=JcOfrH7WlD8 
-**Link to Media for Download:**  https://www.dropbox.com/scl/fo/a214bfu32qa460qlfjnqw/AIHV8u_RQzc402XXZJpSjB4?rlkey=34aqtpsrnn48nddtwv9bgnz7g&st=xjkm98k4&dl=0 
+**Link to Media for Download:**  https://www.dropbox.com/scl/fo/a214bfu32qa460qlfjnqw/AIHV8u_RQzc402XXZJpSjB4?rlkey=34aqtpsrnn48nddtwv9bgnz7g&st=mhp8f91c&dl=0 
 
 ## How It's Made:
 
